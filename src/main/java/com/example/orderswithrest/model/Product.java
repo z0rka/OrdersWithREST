@@ -4,6 +4,7 @@ import lombok.Data;
 
 /**
  * @author Kostiantyn Kvartyrmeister 05.01.2023
+ * Just class of the product
  */
 @Data
 public class Product {

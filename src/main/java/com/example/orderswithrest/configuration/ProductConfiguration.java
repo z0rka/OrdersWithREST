@@ -9,6 +9,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * @author Kostiantyn Kvartyrmeister 05.01.2023
+ * Configuration of all the products and their list
  */
 
 @Configuration
