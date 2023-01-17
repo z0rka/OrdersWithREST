@@ -16,6 +16,11 @@ import org.springframework.web.bind.annotation.RestController;
  * @author Kostiantyn Kvartyrmeister 09.01.2023 Rest controller to work with repository of orders
  */
 
+//Links for the test
+// localhost:8080/add/order
+// localhost:8080/add/order/1?productName=Orbit
+// localhost:8080/find/order/1
+// localhost:8080/find/orders
 @RestController
 @RequiredArgsConstructor
 @Slf4j
